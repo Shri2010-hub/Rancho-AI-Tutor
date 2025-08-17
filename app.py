@@ -455,7 +455,7 @@ def tab_projects():
 def main():
     st.set_page_config(page_title="AI Personal Tutor — Creativity + Exam", page_icon="🎓", layout="wide")
 
-    st.title("🎓 AI Personal Tutor")
+    st.title("🎓 Rancho-AI Personal Tutor")
     st.caption("Prep for **JEE/NEET** and grow your **creativity** — inspired by Sir Ken Robinson.")
 
     # Daily creative prompt card
