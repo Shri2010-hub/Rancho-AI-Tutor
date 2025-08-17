@@ -1,0 +1,163 @@
+[
+  {
+    "id": "bio_neet_1",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Which tissue makes up the bark of the tree?",
+    "options": {"A": "Phloem", "B": "Xylem", "C": "Cork", "D": "Cambium"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_neet_2",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Which hormone is called the 'fight or flight' hormone?",
+    "options": {"A": "Insulin", "B": "Adrenaline", "C": "Thyroxine", "D": "Cortisol"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_neet_3",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Which part of the brain controls respiration?",
+    "options": {"A": "Cerebrum", "B": "Cerebellum", "C": "Medulla oblongata", "D": "Thalamus"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_neet_4",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Which of the following is a photosynthetic prokaryote?",
+    "options": {"A": "Spirogyra", "B": "Yeast", "C": "Cyanobacteria", "D": "Euglena"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_neet_5",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Which enzyme digests proteins in the stomach?",
+    "options": {"A": "Pepsin", "B": "Trypsin", "C": "Amylase", "D": "Lipase"},
+    "answer": "A"
+  },
+  {
+    "id": "bio_neet_6",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "What is the functional unit of the kidney?",
+    "options": {"A": "Neuron", "B": "Nephron", "C": "Alveoli", "D": "Glomerulus"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_neet_7",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Which vitamin is also known as calciferol?",
+    "options": {"A": "Vitamin A", "B": "Vitamin B12", "C": "Vitamin D", "D": "Vitamin K"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_neet_8",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "The longest phase of the cell cycle is:",
+    "options": {"A": "Prophase", "B": "Metaphase", "C": "Interphase", "D": "Telophase"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_neet_9",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "Blood group AB is known as:",
+    "options": {"A": "Universal donor", "B": "Universal acceptor", "C": "Rare group", "D": "None of the above"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_neet_10",
+    "subject": "Biology",
+    "exam": "NEET",
+    "question": "The powerhouse of the cell is:",
+    "options": {"A": "Nucleus", "B": "Chloroplast", "C": "Mitochondria", "D": "Ribosome"},
+    "answer": "C"
+  },
+
+  {
+    "id": "bio_jee_1",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "Which of the following is not a Mendelian disorder?",
+    "options": {"A": "Haemophilia", "B": "Cystic Fibrosis", "C": "Thalassemia", "D": "Down’s Syndrome"},
+    "answer": "D"
+  },
+  {
+    "id": "bio_jee_2",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "The operon model was given by:",
+    "options": {"A": "Watson & Crick", "B": "Jacob & Monod", "C": "Mendel", "D": "Darwin"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_jee_3",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "Which is the first stable product of C4 cycle?",
+    "options": {"A": "3-PGA", "B": "Oxaloacetic acid", "C": "RUBP", "D": "Malic acid"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_jee_4",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "Which is NOT a part of lac operon?",
+    "options": {"A": "Operator", "B": "Repressor", "C": "Enhancer", "D": "Promoter"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_jee_5",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "During which phase of meiosis does crossing over occur?",
+    "options": {"A": "Prophase I", "B": "Metaphase I", "C": "Anaphase I", "D": "Telophase I"},
+    "answer": "A"
+  },
+  {
+    "id": "bio_jee_6",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "DNA replication is:",
+    "options": {"A": "Conservative", "B": "Semi-conservative", "C": "Dispersive", "D": "Random"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_jee_7",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "Which enzyme is used in PCR technique?",
+    "options": {"A": "Ligase", "B": "Taq Polymerase", "C": "Restriction endonuclease", "D": "Helicase"},
+    "answer": "B"
+  },
+  {
+    "id": "bio_jee_8",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "Which of the following is a heteropolymer?",
+    "options": {"A": "Cellulose", "B": "Starch", "C": "DNA", "D": "Glycogen"},
+    "answer": "C"
+  },
+  {
+    "id": "bio_jee_9",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "The term ‘linkage’ was coined by:",
+    "options": {"A": "Morgan", "B": "Mendel", "C": "Sturtevant", "D": "Darwin"},
+    "answer": "A"
+  },
+  {
+    "id": "bio_jee_10",
+    "subject": "Biology",
+    "exam": "JEE",
+    "question": "Which genetic material is present in retroviruses?",
+    "options": {"A": "DNA", "B": "dsRNA", "C": "ssRNA", "D": "Both DNA and RNA"},
+    "answer": "C"
+  }
+]

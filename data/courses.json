@@ -1,0 +1,25 @@
+[
+  {
+    "id": "chem101",
+    "title": "Organic Chemistry Foundations",
+    "subject": "Chemistry",
+    "level": "JEE",
+    "price": 0,
+    "description": "Beginner organic chemistry — bonding, hybridization, functional groups.",
+    "teacher": "Dr. Rao",
+    "lessons": [
+      {
+        "id": "l1",
+        "title": "Atomic Structure & Bonding",
+        "content": "Short notes on atomic structure. [Add video link below]",
+        "video": "https://www.youtube.com/embed/8kK2zwjRV0M"
+      },
+      {
+        "id": "l2",
+        "title": "Hybridization & Shapes",
+        "content": "sp, sp2, sp3 explained with examples.",
+        "video": "https://www.youtube.com/embed/0yT1w_2u-qg"
+      }
+    ]
+  }
+]

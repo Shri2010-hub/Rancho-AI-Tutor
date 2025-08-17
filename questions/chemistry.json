@@ -1,0 +1,652 @@
+[
+    {
+        "id": "chem_1",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "The oxidation number of sulphur in H2SO4 is: (Var 1)",
+        "options": {
+            "A": "+2",
+            "B": "+4",
+            "C": "+6",
+            "D": "0"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_2",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The pH of 0.001 M HCl solution is: (Var 1)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_3",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which element has the highest electronegativity? (Var 1)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Chlorine",
+            "D": "Fluorine"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "chem_4",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The hybridization of carbon in methane (CH4) is: (Var 1)",
+        "options": {
+            "A": "sp",
+            "B": "sp2",
+            "C": "sp3",
+            "D": "dsp2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_5",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which gas is released when Zn reacts with HCl? (Var 1)",
+        "options": {
+            "A": "O2",
+            "B": "Cl2",
+            "C": "H2",
+            "D": "CO2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_6",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a strong electrolyte? (Var 1)",
+        "options": {
+            "A": "CH3COOH",
+            "B": "H2O",
+            "C": "NaCl",
+            "D": "NH3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_7",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which of the following orbitals has spherical shape? (Var 1)",
+        "options": {
+            "A": "s",
+            "B": "p",
+            "C": "d",
+            "D": "f"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_8",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The most electronegative element is: (Var 1)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Fluorine",
+            "C": "Chlorine",
+            "D": "Nitrogen"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_9",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "In a first order reaction, half-life is: (Var 1)",
+        "options": {
+            "A": "Independent of concentration",
+            "B": "Directly proportional to concentration",
+            "C": "Inversely proportional to concentration",
+            "D": "Zero"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_10",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a Lewis acid? (Var 1)",
+        "options": {
+            "A": "NH3",
+            "B": "BF3",
+            "C": "OH-",
+            "D": "H2O"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_11",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "The oxidation number of sulphur in H2SO4 is: (Var 2)",
+        "options": {
+            "A": "+2",
+            "B": "+4",
+            "C": "+6",
+            "D": "0"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_12",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The pH of 0.001 M HCl solution is: (Var 2)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_13",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which element has the highest electronegativity? (Var 2)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Chlorine",
+            "D": "Fluorine"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "chem_14",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The hybridization of carbon in methane (CH4) is: (Var 2)",
+        "options": {
+            "A": "sp",
+            "B": "sp2",
+            "C": "sp3",
+            "D": "dsp2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_15",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which gas is released when Zn reacts with HCl? (Var 2)",
+        "options": {
+            "A": "O2",
+            "B": "Cl2",
+            "C": "H2",
+            "D": "CO2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_16",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a strong electrolyte? (Var 2)",
+        "options": {
+            "A": "CH3COOH",
+            "B": "H2O",
+            "C": "NaCl",
+            "D": "NH3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_17",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which of the following orbitals has spherical shape? (Var 2)",
+        "options": {
+            "A": "s",
+            "B": "p",
+            "C": "d",
+            "D": "f"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_18",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The most electronegative element is: (Var 2)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Fluorine",
+            "C": "Chlorine",
+            "D": "Nitrogen"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_19",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "In a first order reaction, half-life is: (Var 2)",
+        "options": {
+            "A": "Independent of concentration",
+            "B": "Directly proportional to concentration",
+            "C": "Inversely proportional to concentration",
+            "D": "Zero"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_20",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a Lewis acid? (Var 2)",
+        "options": {
+            "A": "NH3",
+            "B": "BF3",
+            "C": "OH-",
+            "D": "H2O"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_21",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "The oxidation number of sulphur in H2SO4 is: (Var 3)",
+        "options": {
+            "A": "+2",
+            "B": "+4",
+            "C": "+6",
+            "D": "0"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_22",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The pH of 0.001 M HCl solution is: (Var 3)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_23",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which element has the highest electronegativity? (Var 3)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Chlorine",
+            "D": "Fluorine"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "chem_24",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The hybridization of carbon in methane (CH4) is: (Var 3)",
+        "options": {
+            "A": "sp",
+            "B": "sp2",
+            "C": "sp3",
+            "D": "dsp2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_25",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which gas is released when Zn reacts with HCl? (Var 3)",
+        "options": {
+            "A": "O2",
+            "B": "Cl2",
+            "C": "H2",
+            "D": "CO2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_26",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a strong electrolyte? (Var 3)",
+        "options": {
+            "A": "CH3COOH",
+            "B": "H2O",
+            "C": "NaCl",
+            "D": "NH3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_27",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which of the following orbitals has spherical shape? (Var 3)",
+        "options": {
+            "A": "s",
+            "B": "p",
+            "C": "d",
+            "D": "f"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_28",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The most electronegative element is: (Var 3)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Fluorine",
+            "C": "Chlorine",
+            "D": "Nitrogen"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_29",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "In a first order reaction, half-life is: (Var 3)",
+        "options": {
+            "A": "Independent of concentration",
+            "B": "Directly proportional to concentration",
+            "C": "Inversely proportional to concentration",
+            "D": "Zero"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_30",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a Lewis acid? (Var 3)",
+        "options": {
+            "A": "NH3",
+            "B": "BF3",
+            "C": "OH-",
+            "D": "H2O"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_31",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "The oxidation number of sulphur in H2SO4 is: (Var 4)",
+        "options": {
+            "A": "+2",
+            "B": "+4",
+            "C": "+6",
+            "D": "0"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_32",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The pH of 0.001 M HCl solution is: (Var 4)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_33",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which element has the highest electronegativity? (Var 4)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Chlorine",
+            "D": "Fluorine"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "chem_34",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The hybridization of carbon in methane (CH4) is: (Var 4)",
+        "options": {
+            "A": "sp",
+            "B": "sp2",
+            "C": "sp3",
+            "D": "dsp2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_35",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which gas is released when Zn reacts with HCl? (Var 4)",
+        "options": {
+            "A": "O2",
+            "B": "Cl2",
+            "C": "H2",
+            "D": "CO2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_36",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a strong electrolyte? (Var 4)",
+        "options": {
+            "A": "CH3COOH",
+            "B": "H2O",
+            "C": "NaCl",
+            "D": "NH3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_37",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which of the following orbitals has spherical shape? (Var 4)",
+        "options": {
+            "A": "s",
+            "B": "p",
+            "C": "d",
+            "D": "f"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_38",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The most electronegative element is: (Var 4)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Fluorine",
+            "C": "Chlorine",
+            "D": "Nitrogen"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_39",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "In a first order reaction, half-life is: (Var 4)",
+        "options": {
+            "A": "Independent of concentration",
+            "B": "Directly proportional to concentration",
+            "C": "Inversely proportional to concentration",
+            "D": "Zero"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_40",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a Lewis acid? (Var 4)",
+        "options": {
+            "A": "NH3",
+            "B": "BF3",
+            "C": "OH-",
+            "D": "H2O"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_41",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "The oxidation number of sulphur in H2SO4 is: (Var 5)",
+        "options": {
+            "A": "+2",
+            "B": "+4",
+            "C": "+6",
+            "D": "0"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_42",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The pH of 0.001 M HCl solution is: (Var 5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_43",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which element has the highest electronegativity? (Var 5)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Nitrogen",
+            "C": "Chlorine",
+            "D": "Fluorine"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "chem_44",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The hybridization of carbon in methane (CH4) is: (Var 5)",
+        "options": {
+            "A": "sp",
+            "B": "sp2",
+            "C": "sp3",
+            "D": "dsp2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_45",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which gas is released when Zn reacts with HCl? (Var 5)",
+        "options": {
+            "A": "O2",
+            "B": "Cl2",
+            "C": "H2",
+            "D": "CO2"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_46",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a strong electrolyte? (Var 5)",
+        "options": {
+            "A": "CH3COOH",
+            "B": "H2O",
+            "C": "NaCl",
+            "D": "NH3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "chem_47",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "Which of the following orbitals has spherical shape? (Var 5)",
+        "options": {
+            "A": "s",
+            "B": "p",
+            "C": "d",
+            "D": "f"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_48",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "The most electronegative element is: (Var 5)",
+        "options": {
+            "A": "Oxygen",
+            "B": "Fluorine",
+            "C": "Chlorine",
+            "D": "Nitrogen"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "chem_49",
+        "subject": "Chemistry",
+        "exam": "JEE",
+        "question": "In a first order reaction, half-life is: (Var 5)",
+        "options": {
+            "A": "Independent of concentration",
+            "B": "Directly proportional to concentration",
+            "C": "Inversely proportional to concentration",
+            "D": "Zero"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "chem_50",
+        "subject": "Chemistry",
+        "exam": "NEET",
+        "question": "Which of the following is a Lewis acid? (Var 5)",
+        "options": {
+            "A": "NH3",
+            "B": "BF3",
+            "C": "OH-",
+            "D": "H2O"
+        },
+        "answer": "B"
+    }
+]

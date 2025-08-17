@@ -1,0 +1,1302 @@
+[
+    {
+        "id": "jee_phy_1",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 1: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A1",
+            "B": "Option B1",
+            "C": "Option C1",
+            "D": "Option D1"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_2",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 2: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A2",
+            "B": "Option B2",
+            "C": "Option C2",
+            "D": "Option D2"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_3",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 3: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A3",
+            "B": "Option B3",
+            "C": "Option C3",
+            "D": "Option D3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_4",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 4: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A4",
+            "B": "Option B4",
+            "C": "Option C4",
+            "D": "Option D4"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_5",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 5: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A5",
+            "B": "Option B5",
+            "C": "Option C5",
+            "D": "Option D5"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_6",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 6: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A6",
+            "B": "Option B6",
+            "C": "Option C6",
+            "D": "Option D6"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_7",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 7: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A7",
+            "B": "Option B7",
+            "C": "Option C7",
+            "D": "Option D7"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_8",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 8: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A8",
+            "B": "Option B8",
+            "C": "Option C8",
+            "D": "Option D8"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_9",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 9: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A9",
+            "B": "Option B9",
+            "C": "Option C9",
+            "D": "Option D9"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_10",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 10: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A10",
+            "B": "Option B10",
+            "C": "Option C10",
+            "D": "Option D10"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_11",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 11: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A11",
+            "B": "Option B11",
+            "C": "Option C11",
+            "D": "Option D11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_12",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 12: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A12",
+            "B": "Option B12",
+            "C": "Option C12",
+            "D": "Option D12"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_13",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 13: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A13",
+            "B": "Option B13",
+            "C": "Option C13",
+            "D": "Option D13"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_14",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 14: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A14",
+            "B": "Option B14",
+            "C": "Option C14",
+            "D": "Option D14"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_15",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 15: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A15",
+            "B": "Option B15",
+            "C": "Option C15",
+            "D": "Option D15"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_16",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 16: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A16",
+            "B": "Option B16",
+            "C": "Option C16",
+            "D": "Option D16"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_17",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 17: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A17",
+            "B": "Option B17",
+            "C": "Option C17",
+            "D": "Option D17"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_18",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 18: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A18",
+            "B": "Option B18",
+            "C": "Option C18",
+            "D": "Option D18"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_19",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 19: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A19",
+            "B": "Option B19",
+            "C": "Option C19",
+            "D": "Option D19"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_20",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 20: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A20",
+            "B": "Option B20",
+            "C": "Option C20",
+            "D": "Option D20"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_21",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 21: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A21",
+            "B": "Option B21",
+            "C": "Option C21",
+            "D": "Option D21"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_22",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 22: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A22",
+            "B": "Option B22",
+            "C": "Option C22",
+            "D": "Option D22"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_23",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 23: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A23",
+            "B": "Option B23",
+            "C": "Option C23",
+            "D": "Option D23"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_24",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 24: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A24",
+            "B": "Option B24",
+            "C": "Option C24",
+            "D": "Option D24"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_25",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 25: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A25",
+            "B": "Option B25",
+            "C": "Option C25",
+            "D": "Option D25"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_26",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 26: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A26",
+            "B": "Option B26",
+            "C": "Option C26",
+            "D": "Option D26"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_27",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 27: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A27",
+            "B": "Option B27",
+            "C": "Option C27",
+            "D": "Option D27"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_28",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 28: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A28",
+            "B": "Option B28",
+            "C": "Option C28",
+            "D": "Option D28"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_29",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 29: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A29",
+            "B": "Option B29",
+            "C": "Option C29",
+            "D": "Option D29"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_30",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 30: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A30",
+            "B": "Option B30",
+            "C": "Option C30",
+            "D": "Option D30"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_31",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 31: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A31",
+            "B": "Option B31",
+            "C": "Option C31",
+            "D": "Option D31"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_32",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 32: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A32",
+            "B": "Option B32",
+            "C": "Option C32",
+            "D": "Option D32"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_33",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 33: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A33",
+            "B": "Option B33",
+            "C": "Option C33",
+            "D": "Option D33"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_34",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 34: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A34",
+            "B": "Option B34",
+            "C": "Option C34",
+            "D": "Option D34"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_35",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 35: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A35",
+            "B": "Option B35",
+            "C": "Option C35",
+            "D": "Option D35"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_36",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 36: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A36",
+            "B": "Option B36",
+            "C": "Option C36",
+            "D": "Option D36"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_37",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 37: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A37",
+            "B": "Option B37",
+            "C": "Option C37",
+            "D": "Option D37"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_38",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 38: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A38",
+            "B": "Option B38",
+            "C": "Option C38",
+            "D": "Option D38"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_39",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 39: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A39",
+            "B": "Option B39",
+            "C": "Option C39",
+            "D": "Option D39"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_40",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 40: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A40",
+            "B": "Option B40",
+            "C": "Option C40",
+            "D": "Option D40"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_41",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 41: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A41",
+            "B": "Option B41",
+            "C": "Option C41",
+            "D": "Option D41"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_42",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 42: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A42",
+            "B": "Option B42",
+            "C": "Option C42",
+            "D": "Option D42"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_43",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 43: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A43",
+            "B": "Option B43",
+            "C": "Option C43",
+            "D": "Option D43"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_44",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 44: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A44",
+            "B": "Option B44",
+            "C": "Option C44",
+            "D": "Option D44"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_45",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 45: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A45",
+            "B": "Option B45",
+            "C": "Option C45",
+            "D": "Option D45"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_46",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 46: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A46",
+            "B": "Option B46",
+            "C": "Option C46",
+            "D": "Option D46"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "jee_phy_47",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 47: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A47",
+            "B": "Option B47",
+            "C": "Option C47",
+            "D": "Option D47"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "jee_phy_48",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 48: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A48",
+            "B": "Option B48",
+            "C": "Option C48",
+            "D": "Option D48"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "jee_phy_49",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 49: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A49",
+            "B": "Option B49",
+            "C": "Option C49",
+            "D": "Option D49"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "jee_phy_50",
+        "exam": "JEE",
+        "subject": "Physics",
+        "question": "JEE Physics Question 50: A conceptual/numerical problem on mechanics, optics, or electricity.",
+        "options": {
+            "A": "Option A50",
+            "B": "Option B50",
+            "C": "Option C50",
+            "D": "Option D50"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_1",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 1: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A1",
+            "B": "Option B1",
+            "C": "Option C1",
+            "D": "Option D1"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_2",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 2: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A2",
+            "B": "Option B2",
+            "C": "Option C2",
+            "D": "Option D2"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_3",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 3: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A3",
+            "B": "Option B3",
+            "C": "Option C3",
+            "D": "Option D3"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_4",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 4: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A4",
+            "B": "Option B4",
+            "C": "Option C4",
+            "D": "Option D4"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_5",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 5: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A5",
+            "B": "Option B5",
+            "C": "Option C5",
+            "D": "Option D5"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_6",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 6: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A6",
+            "B": "Option B6",
+            "C": "Option C6",
+            "D": "Option D6"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_7",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 7: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A7",
+            "B": "Option B7",
+            "C": "Option C7",
+            "D": "Option D7"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_8",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 8: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A8",
+            "B": "Option B8",
+            "C": "Option C8",
+            "D": "Option D8"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_9",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 9: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A9",
+            "B": "Option B9",
+            "C": "Option C9",
+            "D": "Option D9"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_10",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 10: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A10",
+            "B": "Option B10",
+            "C": "Option C10",
+            "D": "Option D10"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_11",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 11: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A11",
+            "B": "Option B11",
+            "C": "Option C11",
+            "D": "Option D11"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_12",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 12: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A12",
+            "B": "Option B12",
+            "C": "Option C12",
+            "D": "Option D12"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_13",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 13: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A13",
+            "B": "Option B13",
+            "C": "Option C13",
+            "D": "Option D13"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_14",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 14: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A14",
+            "B": "Option B14",
+            "C": "Option C14",
+            "D": "Option D14"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_15",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 15: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A15",
+            "B": "Option B15",
+            "C": "Option C15",
+            "D": "Option D15"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_16",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 16: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A16",
+            "B": "Option B16",
+            "C": "Option C16",
+            "D": "Option D16"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_17",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 17: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A17",
+            "B": "Option B17",
+            "C": "Option C17",
+            "D": "Option D17"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_18",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 18: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A18",
+            "B": "Option B18",
+            "C": "Option C18",
+            "D": "Option D18"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_19",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 19: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A19",
+            "B": "Option B19",
+            "C": "Option C19",
+            "D": "Option D19"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_20",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 20: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A20",
+            "B": "Option B20",
+            "C": "Option C20",
+            "D": "Option D20"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_21",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 21: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A21",
+            "B": "Option B21",
+            "C": "Option C21",
+            "D": "Option D21"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_22",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 22: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A22",
+            "B": "Option B22",
+            "C": "Option C22",
+            "D": "Option D22"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_23",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 23: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A23",
+            "B": "Option B23",
+            "C": "Option C23",
+            "D": "Option D23"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_24",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 24: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A24",
+            "B": "Option B24",
+            "C": "Option C24",
+            "D": "Option D24"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_25",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 25: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A25",
+            "B": "Option B25",
+            "C": "Option C25",
+            "D": "Option D25"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_26",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 26: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A26",
+            "B": "Option B26",
+            "C": "Option C26",
+            "D": "Option D26"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_27",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 27: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A27",
+            "B": "Option B27",
+            "C": "Option C27",
+            "D": "Option D27"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_28",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 28: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A28",
+            "B": "Option B28",
+            "C": "Option C28",
+            "D": "Option D28"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_29",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 29: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A29",
+            "B": "Option B29",
+            "C": "Option C29",
+            "D": "Option D29"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_30",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 30: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A30",
+            "B": "Option B30",
+            "C": "Option C30",
+            "D": "Option D30"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_31",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 31: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A31",
+            "B": "Option B31",
+            "C": "Option C31",
+            "D": "Option D31"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_32",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 32: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A32",
+            "B": "Option B32",
+            "C": "Option C32",
+            "D": "Option D32"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_33",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 33: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A33",
+            "B": "Option B33",
+            "C": "Option C33",
+            "D": "Option D33"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_34",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 34: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A34",
+            "B": "Option B34",
+            "C": "Option C34",
+            "D": "Option D34"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_35",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 35: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A35",
+            "B": "Option B35",
+            "C": "Option C35",
+            "D": "Option D35"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_36",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 36: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A36",
+            "B": "Option B36",
+            "C": "Option C36",
+            "D": "Option D36"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_37",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 37: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A37",
+            "B": "Option B37",
+            "C": "Option C37",
+            "D": "Option D37"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_38",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 38: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A38",
+            "B": "Option B38",
+            "C": "Option C38",
+            "D": "Option D38"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_39",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 39: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A39",
+            "B": "Option B39",
+            "C": "Option C39",
+            "D": "Option D39"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_40",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 40: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A40",
+            "B": "Option B40",
+            "C": "Option C40",
+            "D": "Option D40"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_41",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 41: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A41",
+            "B": "Option B41",
+            "C": "Option C41",
+            "D": "Option D41"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_42",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 42: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A42",
+            "B": "Option B42",
+            "C": "Option C42",
+            "D": "Option D42"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_43",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 43: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A43",
+            "B": "Option B43",
+            "C": "Option C43",
+            "D": "Option D43"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_44",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 44: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A44",
+            "B": "Option B44",
+            "C": "Option C44",
+            "D": "Option D44"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_45",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 45: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A45",
+            "B": "Option B45",
+            "C": "Option C45",
+            "D": "Option D45"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_46",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 46: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A46",
+            "B": "Option B46",
+            "C": "Option C46",
+            "D": "Option D46"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "neet_phy_47",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 47: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A47",
+            "B": "Option B47",
+            "C": "Option C47",
+            "D": "Option D47"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "neet_phy_48",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 48: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A48",
+            "B": "Option B48",
+            "C": "Option C48",
+            "D": "Option D48"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "neet_phy_49",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 49: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A49",
+            "B": "Option B49",
+            "C": "Option C49",
+            "D": "Option D49"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "neet_phy_50",
+        "exam": "NEET",
+        "subject": "Physics",
+        "question": "NEET Physics Question 50: A theory/application-based problem from NEET syllabus.",
+        "options": {
+            "A": "Option A50",
+            "B": "Option B50",
+            "C": "Option C50",
+            "D": "Option D50"
+        },
+        "answer": "B"
+    }
+]
