@@ -1,1202 +1,242 @@
 [
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q1: Solve for x in the equation x^2 - 1x + 1 = 0.",
-        "options": {
-            "A": "x = 1, 1",
-            "B": "x = 1 ± √1",
-            "C": "x = 1/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q2: Solve for x in the equation x^2 - 2x + 2 = 0.",
-        "options": {
-            "A": "x = 2, 2",
-            "B": "x = 2 ± √2",
-            "C": "x = 2/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q3: Solve for x in the equation x^2 - 3x + 3 = 0.",
-        "options": {
-            "A": "x = 3, 3",
-            "B": "x = 3 ± √3",
-            "C": "x = 3/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q4: Solve for x in the equation x^2 - 4x + 4 = 0.",
-        "options": {
-            "A": "x = 4, 4",
-            "B": "x = 4 ± √4",
-            "C": "x = 4/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q5: Solve for x in the equation x^2 - 5x + 5 = 0.",
-        "options": {
-            "A": "x = 5, 5",
-            "B": "x = 5 ± √5",
-            "C": "x = 5/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q6: Solve for x in the equation x^2 - 6x + 6 = 0.",
-        "options": {
-            "A": "x = 6, 6",
-            "B": "x = 6 ± √6",
-            "C": "x = 6/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q7: Solve for x in the equation x^2 - 7x + 7 = 0.",
-        "options": {
-            "A": "x = 7, 7",
-            "B": "x = 7 ± √7",
-            "C": "x = 7/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q8: Solve for x in the equation x^2 - 8x + 8 = 0.",
-        "options": {
-            "A": "x = 8, 8",
-            "B": "x = 8 ± √8",
-            "C": "x = 8/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q9: Solve for x in the equation x^2 - 9x + 9 = 0.",
-        "options": {
-            "A": "x = 9, 9",
-            "B": "x = 9 ± √9",
-            "C": "x = 9/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q10: Solve for x in the equation x^2 - 10x + 10 = 0.",
-        "options": {
-            "A": "x = 10, 10",
-            "B": "x = 10 ± √10",
-            "C": "x = 10/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q11: Solve for x in the equation x^2 - 11x + 11 = 0.",
-        "options": {
-            "A": "x = 11, 11",
-            "B": "x = 11 ± √11",
-            "C": "x = 11/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q12: Solve for x in the equation x^2 - 12x + 12 = 0.",
-        "options": {
-            "A": "x = 12, 12",
-            "B": "x = 12 ± √12",
-            "C": "x = 12/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q13: Solve for x in the equation x^2 - 13x + 13 = 0.",
-        "options": {
-            "A": "x = 13, 13",
-            "B": "x = 13 ± √13",
-            "C": "x = 13/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q14: Solve for x in the equation x^2 - 14x + 14 = 0.",
-        "options": {
-            "A": "x = 14, 14",
-            "B": "x = 14 ± √14",
-            "C": "x = 14/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q15: Solve for x in the equation x^2 - 15x + 15 = 0.",
-        "options": {
-            "A": "x = 15, 15",
-            "B": "x = 15 ± √15",
-            "C": "x = 15/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q16: Solve for x in the equation x^2 - 16x + 16 = 0.",
-        "options": {
-            "A": "x = 16, 16",
-            "B": "x = 16 ± √16",
-            "C": "x = 16/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q17: Solve for x in the equation x^2 - 17x + 17 = 0.",
-        "options": {
-            "A": "x = 17, 17",
-            "B": "x = 17 ± √17",
-            "C": "x = 17/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q18: Solve for x in the equation x^2 - 18x + 18 = 0.",
-        "options": {
-            "A": "x = 18, 18",
-            "B": "x = 18 ± √18",
-            "C": "x = 18/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q19: Solve for x in the equation x^2 - 19x + 19 = 0.",
-        "options": {
-            "A": "x = 19, 19",
-            "B": "x = 19 ± √19",
-            "C": "x = 19/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q20: Solve for x in the equation x^2 - 20x + 20 = 0.",
-        "options": {
-            "A": "x = 20, 20",
-            "B": "x = 20 ± √20",
-            "C": "x = 20/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q21: Solve for x in the equation x^2 - 21x + 21 = 0.",
-        "options": {
-            "A": "x = 21, 21",
-            "B": "x = 21 ± √21",
-            "C": "x = 21/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q22: Solve for x in the equation x^2 - 22x + 22 = 0.",
-        "options": {
-            "A": "x = 22, 22",
-            "B": "x = 22 ± √22",
-            "C": "x = 22/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q23: Solve for x in the equation x^2 - 23x + 23 = 0.",
-        "options": {
-            "A": "x = 23, 23",
-            "B": "x = 23 ± √23",
-            "C": "x = 23/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q24: Solve for x in the equation x^2 - 24x + 24 = 0.",
-        "options": {
-            "A": "x = 24, 24",
-            "B": "x = 24 ± √24",
-            "C": "x = 24/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q25: Solve for x in the equation x^2 - 25x + 25 = 0.",
-        "options": {
-            "A": "x = 25, 25",
-            "B": "x = 25 ± √25",
-            "C": "x = 25/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q26: Solve for x in the equation x^2 - 26x + 26 = 0.",
-        "options": {
-            "A": "x = 26, 26",
-            "B": "x = 26 ± √26",
-            "C": "x = 26/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q27: Solve for x in the equation x^2 - 27x + 27 = 0.",
-        "options": {
-            "A": "x = 27, 27",
-            "B": "x = 27 ± √27",
-            "C": "x = 27/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q28: Solve for x in the equation x^2 - 28x + 28 = 0.",
-        "options": {
-            "A": "x = 28, 28",
-            "B": "x = 28 ± √28",
-            "C": "x = 28/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q29: Solve for x in the equation x^2 - 29x + 29 = 0.",
-        "options": {
-            "A": "x = 29, 29",
-            "B": "x = 29 ± √29",
-            "C": "x = 29/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q30: Solve for x in the equation x^2 - 30x + 30 = 0.",
-        "options": {
-            "A": "x = 30, 30",
-            "B": "x = 30 ± √30",
-            "C": "x = 30/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q31: Solve for x in the equation x^2 - 31x + 31 = 0.",
-        "options": {
-            "A": "x = 31, 31",
-            "B": "x = 31 ± √31",
-            "C": "x = 31/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q32: Solve for x in the equation x^2 - 32x + 32 = 0.",
-        "options": {
-            "A": "x = 32, 32",
-            "B": "x = 32 ± √32",
-            "C": "x = 32/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q33: Solve for x in the equation x^2 - 33x + 33 = 0.",
-        "options": {
-            "A": "x = 33, 33",
-            "B": "x = 33 ± √33",
-            "C": "x = 33/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q34: Solve for x in the equation x^2 - 34x + 34 = 0.",
-        "options": {
-            "A": "x = 34, 34",
-            "B": "x = 34 ± √34",
-            "C": "x = 34/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q35: Solve for x in the equation x^2 - 35x + 35 = 0.",
-        "options": {
-            "A": "x = 35, 35",
-            "B": "x = 35 ± √35",
-            "C": "x = 35/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q36: Solve for x in the equation x^2 - 36x + 36 = 0.",
-        "options": {
-            "A": "x = 36, 36",
-            "B": "x = 36 ± √36",
-            "C": "x = 36/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q37: Solve for x in the equation x^2 - 37x + 37 = 0.",
-        "options": {
-            "A": "x = 37, 37",
-            "B": "x = 37 ± √37",
-            "C": "x = 37/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q38: Solve for x in the equation x^2 - 38x + 38 = 0.",
-        "options": {
-            "A": "x = 38, 38",
-            "B": "x = 38 ± √38",
-            "C": "x = 38/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q39: Solve for x in the equation x^2 - 39x + 39 = 0.",
-        "options": {
-            "A": "x = 39, 39",
-            "B": "x = 39 ± √39",
-            "C": "x = 39/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q40: Solve for x in the equation x^2 - 40x + 40 = 0.",
-        "options": {
-            "A": "x = 40, 40",
-            "B": "x = 40 ± √40",
-            "C": "x = 40/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q41: Solve for x in the equation x^2 - 41x + 41 = 0.",
-        "options": {
-            "A": "x = 41, 41",
-            "B": "x = 41 ± √41",
-            "C": "x = 41/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q42: Solve for x in the equation x^2 - 42x + 42 = 0.",
-        "options": {
-            "A": "x = 42, 42",
-            "B": "x = 42 ± √42",
-            "C": "x = 42/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q43: Solve for x in the equation x^2 - 43x + 43 = 0.",
-        "options": {
-            "A": "x = 43, 43",
-            "B": "x = 43 ± √43",
-            "C": "x = 43/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q44: Solve for x in the equation x^2 - 44x + 44 = 0.",
-        "options": {
-            "A": "x = 44, 44",
-            "B": "x = 44 ± √44",
-            "C": "x = 44/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q45: Solve for x in the equation x^2 - 45x + 45 = 0.",
-        "options": {
-            "A": "x = 45, 45",
-            "B": "x = 45 ± √45",
-            "C": "x = 45/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q46: Solve for x in the equation x^2 - 46x + 46 = 0.",
-        "options": {
-            "A": "x = 46, 46",
-            "B": "x = 46 ± √46",
-            "C": "x = 46/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q47: Solve for x in the equation x^2 - 47x + 47 = 0.",
-        "options": {
-            "A": "x = 47, 47",
-            "B": "x = 47 ± √47",
-            "C": "x = 47/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q48: Solve for x in the equation x^2 - 48x + 48 = 0.",
-        "options": {
-            "A": "x = 48, 48",
-            "B": "x = 48 ± √48",
-            "C": "x = 48/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q49: Solve for x in the equation x^2 - 49x + 49 = 0.",
-        "options": {
-            "A": "x = 49, 49",
-            "B": "x = 49 ± √49",
-            "C": "x = 49/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "JEE",
-        "subject": "Maths",
-        "question": "JEE Math Q50: Solve for x in the equation x^2 - 50x + 50 = 0.",
-        "options": {
-            "A": "x = 50, 50",
-            "B": "x = 50 ± √50",
-            "C": "x = 50/2",
-            "D": "None of these"
-        },
-        "answer": "B"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q51: If sinθ = 1/10, find cos²θ.",
-        "options": {
-            "A": "99/100",
-            "B": "1/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q52: If sinθ = 2/10, find cos²θ.",
-        "options": {
-            "A": "96/100",
-            "B": "2/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q53: If sinθ = 3/10, find cos²θ.",
-        "options": {
-            "A": "91/100",
-            "B": "3/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q54: If sinθ = 4/10, find cos²θ.",
-        "options": {
-            "A": "84/100",
-            "B": "4/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q55: If sinθ = 5/10, find cos²θ.",
-        "options": {
-            "A": "75/100",
-            "B": "5/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q56: If sinθ = 6/10, find cos²θ.",
-        "options": {
-            "A": "64/100",
-            "B": "6/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q57: If sinθ = 7/10, find cos²θ.",
-        "options": {
-            "A": "51/100",
-            "B": "7/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q58: If sinθ = 8/10, find cos²θ.",
-        "options": {
-            "A": "36/100",
-            "B": "8/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q59: If sinθ = 9/10, find cos²θ.",
-        "options": {
-            "A": "19/100",
-            "B": "9/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q60: If sinθ = 0/10, find cos²θ.",
-        "options": {
-            "A": "100/100",
-            "B": "0/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q61: If sinθ = 1/10, find cos²θ.",
-        "options": {
-            "A": "99/100",
-            "B": "1/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q62: If sinθ = 2/10, find cos²θ.",
-        "options": {
-            "A": "96/100",
-            "B": "2/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q63: If sinθ = 3/10, find cos²θ.",
-        "options": {
-            "A": "91/100",
-            "B": "3/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q64: If sinθ = 4/10, find cos²θ.",
-        "options": {
-            "A": "84/100",
-            "B": "4/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q65: If sinθ = 5/10, find cos²θ.",
-        "options": {
-            "A": "75/100",
-            "B": "5/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q66: If sinθ = 6/10, find cos²θ.",
-        "options": {
-            "A": "64/100",
-            "B": "6/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q67: If sinθ = 7/10, find cos²θ.",
-        "options": {
-            "A": "51/100",
-            "B": "7/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q68: If sinθ = 8/10, find cos²θ.",
-        "options": {
-            "A": "36/100",
-            "B": "8/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q69: If sinθ = 9/10, find cos²θ.",
-        "options": {
-            "A": "19/100",
-            "B": "9/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q70: If sinθ = 0/10, find cos²θ.",
-        "options": {
-            "A": "100/100",
-            "B": "0/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q71: If sinθ = 1/10, find cos²θ.",
-        "options": {
-            "A": "99/100",
-            "B": "1/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q72: If sinθ = 2/10, find cos²θ.",
-        "options": {
-            "A": "96/100",
-            "B": "2/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q73: If sinθ = 3/10, find cos²θ.",
-        "options": {
-            "A": "91/100",
-            "B": "3/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q74: If sinθ = 4/10, find cos²θ.",
-        "options": {
-            "A": "84/100",
-            "B": "4/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q75: If sinθ = 5/10, find cos²θ.",
-        "options": {
-            "A": "75/100",
-            "B": "5/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q76: If sinθ = 6/10, find cos²θ.",
-        "options": {
-            "A": "64/100",
-            "B": "6/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q77: If sinθ = 7/10, find cos²θ.",
-        "options": {
-            "A": "51/100",
-            "B": "7/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q78: If sinθ = 8/10, find cos²θ.",
-        "options": {
-            "A": "36/100",
-            "B": "8/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q79: If sinθ = 9/10, find cos²θ.",
-        "options": {
-            "A": "19/100",
-            "B": "9/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q80: If sinθ = 0/10, find cos²θ.",
-        "options": {
-            "A": "100/100",
-            "B": "0/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q81: If sinθ = 1/10, find cos²θ.",
-        "options": {
-            "A": "99/100",
-            "B": "1/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q82: If sinθ = 2/10, find cos²θ.",
-        "options": {
-            "A": "96/100",
-            "B": "2/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q83: If sinθ = 3/10, find cos²θ.",
-        "options": {
-            "A": "91/100",
-            "B": "3/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q84: If sinθ = 4/10, find cos²θ.",
-        "options": {
-            "A": "84/100",
-            "B": "4/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q85: If sinθ = 5/10, find cos²θ.",
-        "options": {
-            "A": "75/100",
-            "B": "5/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q86: If sinθ = 6/10, find cos²θ.",
-        "options": {
-            "A": "64/100",
-            "B": "6/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q87: If sinθ = 7/10, find cos²θ.",
-        "options": {
-            "A": "51/100",
-            "B": "7/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q88: If sinθ = 8/10, find cos²θ.",
-        "options": {
-            "A": "36/100",
-            "B": "8/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q89: If sinθ = 9/10, find cos²θ.",
-        "options": {
-            "A": "19/100",
-            "B": "9/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q90: If sinθ = 0/10, find cos²θ.",
-        "options": {
-            "A": "100/100",
-            "B": "0/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q91: If sinθ = 1/10, find cos²θ.",
-        "options": {
-            "A": "99/100",
-            "B": "1/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q92: If sinθ = 2/10, find cos²θ.",
-        "options": {
-            "A": "96/100",
-            "B": "2/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q93: If sinθ = 3/10, find cos²θ.",
-        "options": {
-            "A": "91/100",
-            "B": "3/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q94: If sinθ = 4/10, find cos²θ.",
-        "options": {
-            "A": "84/100",
-            "B": "4/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q95: If sinθ = 5/10, find cos²θ.",
-        "options": {
-            "A": "75/100",
-            "B": "5/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q96: If sinθ = 6/10, find cos²θ.",
-        "options": {
-            "A": "64/100",
-            "B": "6/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q97: If sinθ = 7/10, find cos²θ.",
-        "options": {
-            "A": "51/100",
-            "B": "7/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q98: If sinθ = 8/10, find cos²θ.",
-        "options": {
-            "A": "36/100",
-            "B": "8/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q99: If sinθ = 9/10, find cos²θ.",
-        "options": {
-            "A": "19/100",
-            "B": "9/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    },
-    {
-        "exam": "NEET",
-        "subject": "Maths",
-        "question": "NEET Math Q100: If sinθ = 0/10, find cos²θ.",
-        "options": {
-            "A": "100/100",
-            "B": "0/100",
-            "C": "1",
-            "D": "0"
-        },
-        "answer": "A"
-    }
+  {
+    "id": "math_001",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If sin θ = 3/5, then cos θ is:",
+    "options": {"A": "4/5", "B": "5/4", "C": "1/5", "D": "√3/2"},
+    "answer": "A"
+  },
+  {
+    "id": "math_002",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "The derivative of e^x is:",
+    "options": {"A": "1", "B": "x e^x", "C": "e^x", "D": "ln(x)"},
+    "answer": "C"
+  },
+  {
+    "id": "math_003",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If A = {1,2,3} and B = {a,b}, then the number of relations from A to B is:",
+    "options": {"A": "64", "B": "32", "C": "16", "D": "8"},
+    "answer": "A"
+  },
+  {
+    "id": "math_004",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "The sum of first n natural numbers is:",
+    "options": {"A": "n(n+1)/2", "B": "n²", "C": "n(n-1)/2", "D": "2n+1"},
+    "answer": "A"
+  },
+  {
+    "id": "math_005",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The value of lim(x→0) (sin x / x) is:",
+    "options": {"A": "0", "B": "1", "C": "∞", "D": "Does not exist"},
+    "answer": "B"
+  },
+  {
+    "id": "math_006",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The probability of getting a head when a coin is tossed once is:",
+    "options": {"A": "1/4", "B": "1/3", "C": "1/2", "D": "1"},
+    "answer": "C"
+  },
+  {
+    "id": "math_007",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If logₐ(b) = c, then b equals:",
+    "options": {"A": "a^c", "B": "c^a", "C": "log(a+c)", "D": "a/c"},
+    "answer": "A"
+  },
+  {
+    "id": "math_008",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "The slope of line 2x + 3y = 5 is:",
+    "options": {"A": "-2/3", "B": "2/3", "C": "-3/2", "D": "3/2"},
+    "answer": "A"
+  },
+  {
+    "id": "math_009",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The distance between (1,2) and (4,6) is:",
+    "options": {"A": "5", "B": "4", "C": "3", "D": "2"},
+    "answer": "A"
+  },
+  {
+    "id": "math_010",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The sum of the roots of x² - 5x + 6 = 0 is:",
+    "options": {"A": "5", "B": "6", "C": "-5", "D": "-6"},
+    "answer": "A"
+  },
+  {
+    "id": "math_011",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The general solution of sin x = 0 is:",
+    "options": {"A": "nπ", "B": "π/2 + nπ", "C": "2nπ", "D": "None"},
+    "answer": "A"
+  },
+  {
+    "id": "math_012",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If tan A = 1, then A is:",
+    "options": {"A": "π/4", "B": "π/2", "C": "π", "D": "0"},
+    "answer": "A"
+  },
+  {
+    "id": "math_013",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The 10th term of an AP with first term 2 and common difference 3 is:",
+    "options": {"A": "29", "B": "30", "C": "28", "D": "31"},
+    "answer": "A"
+  },
+  {
+    "id": "math_014",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If the nth term of an AP is 3n+2, then the first term is:",
+    "options": {"A": "5", "B": "2", "C": "3", "D": "1"},
+    "answer": "A"
+  },
+  {
+    "id": "math_015",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The sum of infinite GP with first term 2 and ratio 1/2 is:",
+    "options": {"A": "4", "B": "2", "C": "1", "D": "∞"},
+    "answer": "A"
+  },
+  {
+    "id": "math_016",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If the determinant of [[a, b], [c, d]] is 0, then:",
+    "options": {"A": "ad - bc = 0", "B": "ab - cd = 0", "C": "a+d=0", "D": "a=b=c=d"},
+    "answer": "A"
+  },
+  {
+    "id": "math_017",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "The mean of first 5 natural numbers is:",
+    "options": {"A": "3", "B": "2.5", "C": "5", "D": "4"},
+    "answer": "A"
+  },
+  {
+    "id": "math_018",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "Variance is always:",
+    "options": {"A": "Positive", "B": "Negative", "C": "Zero or positive", "D": "Zero or negative"},
+    "answer": "C"
+  },
+  {
+    "id": "math_019",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The probability of getting sum 7 on two dice is:",
+    "options": {"A": "1/6", "B": "1/12", "C": "1/36", "D": "5/36"},
+    "answer": "A"
+  },
+  {
+    "id": "math_020",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "The integration of cos x is:",
+    "options": {"A": "sin x + C", "B": "-sin x + C", "C": "cos x + C", "D": "tan x + C"},
+    "answer": "A"
+  },
+  {
+    "id": "math_021",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The integration of 1/x is:",
+    "options": {"A": "ln|x| + C", "B": "1/x + C", "C": "e^x + C", "D": "x + C"},
+    "answer": "A"
+  },
+  {
+    "id": "math_022",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The derivative of ln x is:",
+    "options": {"A": "1/x", "B": "ln(x)", "C": "x ln(x)", "D": "x"},
+    "answer": "A"
+  },
+  {
+    "id": "math_023",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "The coordinates of centroid of triangle with vertices (0,0), (6,0), (0,6) are:",
+    "options": {"A": "(2,2)", "B": "(3,3)", "C": "(4,4)", "D": "(6,6)"},
+    "answer": "B"
+  },
+  {
+    "id": "math_024",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "Equation of circle with center (0,0) and radius 5 is:",
+    "options": {"A": "x² + y² = 25", "B": "x² + y² = 5", "C": "x² + y² - 25 = 0", "D": "Both A and C"},
+    "answer": "D"
+  },
+  {
+    "id": "math_025",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "If sin²x + cos²x = ?",
+    "options": {"A": "1", "B": "0", "C": "2", "D": "None"},
+    "answer": "A"
+  },
+  {
+    "id": "math_026",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If n(A)=10, n(B)=15, n(A∪B)=20, then n(A∩B) = ?",
+    "options": {"A": "5", "B": "10", "C": "15", "D": "20"},
+    "answer": "A"
+  },
+  {
+    "id": "math_027",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If a matrix has order 2x3, it has how many elements?",
+    "options": {"A": "5", "B": "6", "C": "8", "D": "9"},
+    "answer": "B"
+  },
+  {
+    "id": "math_028",
+    "exam": "NEET",
+    "subject": "Mathematics",
+    "question": "The binomial expansion of (x+y)² has how many terms?",
+    "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+    "answer": "B"
+  },
+  {
+    "id": "math_029",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "nPr / nCr = ?",
+    "options": {"A": "r!", "B": "n!", "C": "(n-r)!", "D": "None"},
+    "answer": "A"
+  },
+  {
+    "id": "math_030",
+    "exam": "JEE",
+    "subject": "Mathematics",
+    "question": "If f(x)=x², then f'(x) is:",
+    "options": {"A": "2x", "B": "x", "C": "x²", "D": "1"},
+    "answer": "A"
+  }
 ]
